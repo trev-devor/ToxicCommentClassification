@@ -1,5 +1,5 @@
 # ToxicCommentClassification
-Toxic Comment Classification challenge form Kaggle (2018).
+Toxic Comment Classification challenge from Kaggle (2018).
 
 This was done as a class project, using Spark and Scala.
 
